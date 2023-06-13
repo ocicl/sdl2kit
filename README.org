@@ -1,0 +1,10 @@
+* sdl2kit
+
+Utility kit for CL-SDL2
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispgames/sdl2kit.git   |
+| commit  | aae6632  |
+| systems | sdl2kit |
+|---------+-------------------------------------------|
+
